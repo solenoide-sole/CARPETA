@@ -1,0 +1,2 @@
+¿Cómo funcionan los permisos?
+Funcionan para denegar o restringir la entrada  de algunos ususarios a ciertos documentos ya sea confidenciales o cualquier otra índole.
