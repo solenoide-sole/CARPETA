@@ -1,2 +1,0 @@
-preguntasmujermasimportante
-explicacion de permisos
