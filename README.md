@@ -1,1 +1,2 @@
-# CARPETA
+preguntasmujermasimportante
+explicacion de permisos
